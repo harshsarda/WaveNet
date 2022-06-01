@@ -1,4 +1,4 @@
 # WaveNet
-This repository contains a solution comprising of WaveNet and RNN for a Kaggle Competition Dataset
+This repository contains a solution for a Kaggle Competition Dataset created using WaveNet and GRU.
 
 Competition Link: https://www.kaggle.com/competitions/liverpool-ion-switching
